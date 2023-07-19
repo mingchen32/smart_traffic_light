@@ -1,0 +1,4 @@
+# smart_traffic_light
+
+ai_sample为Taurus开发板代码
+traffic_light_demo为Pegasus开发板代码
